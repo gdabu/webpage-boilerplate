@@ -8,10 +8,10 @@ Included in this boilerplate is a Gulp build process.
 
 Gulp tasks:
 
-	*	Browsersync (auto reload on .html, .sass, .js change)
-	*	Sass compilation
-	*	JJ uglify
-	*	CSS minify
+	-	Browsersync (auto reload on .html, .sass, .js change)
+	-	Sass compilation
+	-	JJ uglify
+	-	CSS minify
 
 ## Setup/Startup
 
