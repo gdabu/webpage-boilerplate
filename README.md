@@ -2,9 +2,9 @@
 
 ## Details
 
-This is a simple boilerplate built on [initializr](http://www.initializr.com/)'s Responsive HTML5 boilerplate. 
+This is a simple boilerplate built on [www.initializr.com](http://www.initializr.com/)'s Responsive HTML5 boilerplate. 
 
-Included in this boilerplate is a Gulp build process.
+Added to this boilerplate is a Gulp build process.
 
 Gulp tasks:
 
