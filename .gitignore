@@ -39,7 +39,3 @@ Thumbs.db
 # modules #
 ###########
 node_modules
-
-# build settings #
-##################
-*.jscsrc
