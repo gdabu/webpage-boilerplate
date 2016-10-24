@@ -6,7 +6,7 @@ This is a simple boilerplate built on [www.initializr.com](http://www.initializr
 
 Added to this boilerplate is a Gulp build process.
 
->Gulp tasks:
+>###Gulp tasks:###
 
 >-	Browsersync (auto reload on .html, .sass, .js change)
 >-	Sass compilation
