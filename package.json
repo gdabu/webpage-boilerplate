@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "webpage-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gdabu/portfolio.git"
+    "url": "git+https://github.com/gdabu/webpage-boilerplate.git"
   },
   "author": "Geoff Dabu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gdabu/portfolio/issues"
+    "url": "https://github.com/gdabu/webpage-boilerplate/issues"
   },
-  "homepage": "https://github.com/gdabu/portfolio#readme",
+  "homepage": "https://github.com/gdabu/webpage-boilerplate#readme",
   "devDependencies": {
     "browser-sync": "^2.17.3",
     "gulp": "^3.9.1",
